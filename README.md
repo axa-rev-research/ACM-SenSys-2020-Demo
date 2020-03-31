@@ -11,6 +11,6 @@ To note that each segment lasts about 0.5s, and only one class is assigned to a 
 
 ## How to reproduce the demo
 * Open the {file}.mkv file with VLC (or any other video player)
-* Add the {file}.srt subtitle file. On VLC: Subtitles menu -> add subtitle file...
+* Add the subtitle_{file}.srt subtitle file. On VLC: Subtitles menu -> add subtitle file...
 * Enjoy the demo
 
