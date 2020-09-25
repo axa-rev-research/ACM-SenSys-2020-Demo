@@ -1,5 +1,4 @@
-# ACM-SenSys-2020-Demo
-Video demo for ACM Sensys 2020.
+# PerCom-2021-Demo
 
 The video, along with its relative subtitle file, shows the environmental sensing activity for road safety relying on audio stream captured inside the car cabin.
 
