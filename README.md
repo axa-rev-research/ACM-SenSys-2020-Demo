@@ -1,6 +1,7 @@
-# PerCom-2021-Demo
+# NINA-Dataset-Demo
 
 The video, along with its relative subtitle file, shows the environmental sensing activity for road safety relying on audio stream captured inside the car cabin.
+Audio recognition model is trained upon the NINA Dataset.
 
 Subtitles show the class of the event detected as long as all the other classes with relative probabilities (in smaller fonts).
 
